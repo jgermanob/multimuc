@@ -163,3 +163,5 @@ cython_debug/
 # MultiMUC
 data/multimuc_v1.0/
 predictions/
+models/
+Corpora/
